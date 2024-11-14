@@ -15,6 +15,7 @@ No decorrer da minha carreira já tive a oportunidade de trabalhar e contribuir 
 
 ## Featured Projects / Projetos Destacados
 
+- [File Manager SDk](https://github.com/evenstaian/File-Manager-SDK): This is a SDK built on javascript to help send files to any provider like S3 or Piñata
 - [RickAndMorty App](link_para_projeto_1): This is a Swift project where I demonstrate how to create code that adheres to SOLID principles using the MVVM-C design pattern. - Este é um projeto em Swift, onde mostro como criar um código que respeite os principios SOLID usando o MVVM-C.
 - [Cats App](https://github.com/evenstaian/cats_by_evens_taians): This project focuses solely on implementing a network and demonstrating the simple consumption of a public API. - Este projeto tem foco apenas em implementar um network e demonstrar o consumo simples de uma API pública.
 - [Marvel Characters App](https://github.com/evenstaian/-Swift-VIPER-Marvel-Characters): This is a Swift project where I demonstrate how to create code that adheres to SOLID principles using the VIPER design pattern. - Este é um projeto em Swift, onde mostro como criar um código que respeite os principios SOLID usando o VIPER.
